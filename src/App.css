@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+.hero {
+  background-image: url("./assets/Frame.png");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
