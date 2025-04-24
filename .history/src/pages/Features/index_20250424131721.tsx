@@ -6,7 +6,7 @@ import Container from "../../components/Container";
 export default function Features() {
   return (
     <>
-      <div className="lg:pt-[50rem] pt-[25rem] md:pt-[8rem]">
+      <div className="lg:pt-[50rem] pt-[25rem] md:pt-[10rem]">
         <Container />
         <div className="md:text-7xl text-5xl text-white font-[400] gilroy-medium text-center pt-2">
           <h2>

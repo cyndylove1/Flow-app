@@ -20,7 +20,7 @@ export default function Home() {
             Without Delays
           </h2>
           <div className="flex justify-center py-[70px]">
-            <img src={hero} alt=""  className="h-[500px] lg:h-full"/>
+            <img src={hero} alt=""  className="h-[50rem]"/>
           </div>
         </div>
       </div>
